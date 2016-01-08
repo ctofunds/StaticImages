@@ -1,0 +1,20 @@
+{
+  "name": "sms-images",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctofunds/StaticImages.git"
+  },
+  "version": "0.0.1",
+  "description": "A component for rendering Markdown in React Native for SMS",
+  "main": "Markdown.js",
+  "author": "jason",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "Files" : [
+    "cop_jit.jpg"
+  ],
+  "keywords": [
+    "react"
+  ]
+}
